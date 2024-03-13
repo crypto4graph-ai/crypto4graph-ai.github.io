@@ -12,18 +12,14 @@ German-French Joint Call On “ARTIFICIAL INTELLIGENCE” -- CRYPTO4GRAPH-AI
 
 ## Partners
 
-- Cosmian Tech
-- INRIA
-- Fraunhofer (FHG)
-- eccenca GmbH
+- [Cosmian Tech](https://cosmian.com/)
+- [INRIA](https://inria.fr/en)
+- [Fraunhofer (FHG)](https://www.fraunhofer.de/)
+- [eccenca GmbH](https://eccenca.com/)
 
 ---
 
 ## Key Figures
 
-### Funded by
-- 
-
 ### Duration of the Project
 - 36 months
-- Start date: 

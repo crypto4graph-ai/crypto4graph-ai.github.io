@@ -4,7 +4,7 @@ layout: single
 title: "About"
 excerpt: "German-French Joint Call On “ARTIFICIAL INTELLIGENCE” -- CRYPTO4GRAPH-AI"
 keywords: 
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2024-03-14T13:44:26+01:00
 toc: true
 ---
 
